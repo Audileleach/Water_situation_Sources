@@ -1,0 +1,261 @@
+﻿simulado,id_respuesta,grupo,p01_estado,p02_municipio,p02_zona_merida,p03_personas,p04_agua_entubada,p05_fuente_agua_beber,p06_garrafones_semana,p07_pago_agua_mes,p08_gasto_garrafon_mes,p09_sin_agua_12m,p10_duracion,p11_almacenamiento,p12_drenaje,p13_vaciado_fosa,p14_confianza_llave_1a5,p15_sarro
+SI,SIM-0049,Mérida,Yucatán,Mérida,Sur,3,"Sí, dentro de la vivienda",Garrafón,1,Menos de $100,$1–149,1–2 veces,Horas,Tinaco,Fosa séptica,Nunca,2,Sí
+SI,SIM-0070,Mérida,Yucatán,Mérida,Norte,2,"Sí, dentro de la vivienda",Garrafón,1,Menos de $100,$1–149,Nunca,,Tinaco,Fosa séptica,Nunca,2,Sí
+SI,SIM-0003,Mérida,Yucatán,Mérida,Poniente,1,"Sí, dentro de la vivienda",Garrafón,1,Menos de $100,$1–149,Nunca,,Tinaco,Fosa séptica,Más de 2 años,1,Sí
+SI,SIM-0114,Mérida,Yucatán,Mérida,Sur,4,Solo en el patio o terreno,Garrafón,2,Menos de $100,$150–299,1–2 veces,Varios días,Tinaco,Fosa séptica,Nunca,1,Sí
+SI,SIM-0080,Mérida,Yucatán,Mérida,Sur,5,"Sí, dentro de la vivienda",Garrafón,3,$100–199,$300–499,1–2 veces,Horas,Tinaco,Fosa séptica,Más de 2 años,3,Sí
+SI,SIM-0104,Mérida,Yucatán,Mérida,Centro,2,"Sí, dentro de la vivienda",Garrafón,2,Menos de $100,$150–299,Nunca,,Tinaco,Fosa séptica,Nunca,1,Sí
+SI,SIM-0199,Comparación,Nuevo León,San Nicolás de los Garza,,5,"Sí, dentro de la vivienda",Garrafón,2,$700 o más,$300–499,Nunca,,Ninguno,Red de drenaje público,,2,Sí
+SI,SIM-0248,Comparación,Guanajuato,Irapuato,,5,"Sí, dentro de la vivienda",Filtro o purificador en casa,0,$200–399,$0,1–2 veces,1 día,Ambos,Red de drenaje público,,2,No
+SI,SIM-0042,Mérida,Yucatán,Mérida,Norte,4,Solo en el patio o terreno,Garrafón,4 o más,Menos de $100,$500 o más,1–2 veces,Horas,Tinaco,Fosa séptica,Nunca,3,Sí
+SI,SIM-0124,Mérida,Yucatán,Mérida,Norte,3,Solo en el patio o terreno,Garrafón,3,$100–199,$300–499,Nunca,,Tinaco,Fosa séptica,No sé,2,No
+SI,SIM-0158,Mérida,Yucatán,Mérida,Oriente,4,"Sí, dentro de la vivienda",Garrafón,3,Menos de $100,$300–499,Nunca,,Tinaco,Red de drenaje público,,2,No
+SI,SIM-0079,Mérida,Yucatán,Mérida,Poniente,4,Solo en el patio o terreno,Agua hervida,0,$100–199,$0,Cada mes,1 día,Tinaco,Biodigestor,Más de 2 años,2,Sí
+SI,SIM-0143,Mérida,Yucatán,Mérida,Norte,3,"Sí, dentro de la vivienda",Filtro o purificador en casa,1,Menos de $100,$1–149,1–2 veces,1 día,Tinaco,Pozo o sumidero,,3,No
+SI,SIM-0058,Mérida,Yucatán,Mérida,Centro,1,Solo en el patio o terreno,Garrafón,2,Menos de $100,$150–299,Nunca,,Tinaco,Fosa séptica,No sé,1,Sí
+SI,SIM-0022,Mérida,Yucatán,Mérida,Centro,4,"Sí, dentro de la vivienda",Garrafón,3,$100–199,$300–499,1–2 veces,1 día,Tinaco,Fosa séptica,Más de 2 años,1,Sí
+SI,SIM-0099,Mérida,Yucatán,Mérida,Oriente,1,"Sí, dentro de la vivienda",Llave sin tratar,0,Menos de $100,$0,Nunca,,Ambos,Pozo o sumidero,,2,Sí
+SI,SIM-0056,Mérida,Yucatán,Mérida,Oriente,3,"Sí, dentro de la vivienda",Garrafón,2,Menos de $100,$150–299,1–2 veces,Varios días,Tinaco,Pozo o sumidero,,1,Sí
+SI,SIM-0108,Mérida,Yucatán,Mérida,Centro,1,"Sí, dentro de la vivienda",Filtro o purificador en casa,0,Menos de $100,$0,Nunca,,Tinaco,Fosa séptica,Más de 2 años,2,Sí
+SI,SIM-0077,Mérida,Yucatán,Mérida,Norte,3,"Sí, dentro de la vivienda",Garrafón,1,Menos de $100,$1–149,Nunca,,Tinaco,No sé,,3,Sí
+SI,SIM-0019,Mérida,Yucatán,Mérida,Poniente,2,"Sí, dentro de la vivienda",Garrafón,1,Menos de $100,$1–149,Nunca,,Ambos,Fosa séptica,No sé,2,Sí
+SI,SIM-0048,Mérida,Yucatán,Mérida,Norte,3,Solo en el patio o terreno,Otro,0,$100–199,$0,Cada mes,Varios días,Ninguno,No sé,,1,Sí
+SI,SIM-0144,Mérida,Yucatán,Mérida,Poniente,4,"Sí, dentro de la vivienda",Garrafón,1,$100–199,$1–149,Nunca,,Tinaco,Fosa séptica,Nunca,1,Sí
+SI,SIM-0145,Mérida,Yucatán,Mérida,Oriente,5,"Sí, dentro de la vivienda",Garrafón,1,$200–399,$1–149,1–2 veces,Horas,Tinaco,Pozo o sumidero,,3,No
+SI,SIM-0244,Comparación,Puebla,San Andrés Cholula,,2,"Sí, dentro de la vivienda",Garrafón,1,$200–399,$150–299,Cada mes,Horas,Ambos,Red de drenaje público,,3,Sí
+SI,SIM-0149,Mérida,Yucatán,Mérida,Sur,4,"Sí, dentro de la vivienda",Garrafón,4 o más,Menos de $100,$500 o más,Cada mes,Horas,Tinaco,Fosa séptica,Cada 1–2 años,4,Sí
+SI,SIM-0057,Mérida,Yucatán,Mérida,Centro,3,"Sí, dentro de la vivienda",Garrafón,2,Menos de $100,$150–299,Nunca,,Tinaco,Fosa séptica,Cada 1–2 años,2,Sí
+SI,SIM-0035,Mérida,Yucatán,Mérida,Norte,3,Solo en el patio o terreno,Garrafón,1,$100–199,$1–149,1–2 veces,Horas,Tinaco,Pozo o sumidero,,1,No
+SI,SIM-0222,Comparación,Chihuahua,Juárez,,3,Solo en el patio o terreno,Garrafón,1,$100–199,$150–299,Cada mes,Horas,Ninguno,Red de drenaje público,,3,Sí
+SI,SIM-0165,Comparación,Ciudad de México,Coyoacán,,3,"Sí, dentro de la vivienda",Garrafón,1,$200–399,$150–299,Nunca,,Tinaco,Red de drenaje público,,2,Sí
+SI,SIM-0217,Comparación,Chihuahua,Juárez,,4,"Sí, dentro de la vivienda",Garrafón,1,$100–199,$150–299,Cada semana,Horas,Tinaco,Red de drenaje público,,2,Sí
+SI,SIM-0051,Mérida,Yucatán,Mérida,Sur,2,"Sí, dentro de la vivienda",Llave sin tratar,1,$100–199,$1–149,1–2 veces,1 día,Tinaco,No sé,,1,No
+SI,SIM-0135,Mérida,Yucatán,Mérida,Norte,1,"Sí, dentro de la vivienda",Garrafón,1,Menos de $100,$1–149,Nunca,,Ambos,Fosa séptica,Nunca,2,Sí
+SI,SIM-0010,Mérida,Yucatán,Mérida,Poniente,4,"Sí, dentro de la vivienda",Garrafón,1,Menos de $100,$1–149,Nunca,,Ambos,Pozo o sumidero,,2,Sí
+SI,SIM-0184,Comparación,México,Ecatepec,,4,Solo en el patio o terreno,Llave sin tratar,0,$200–399,$0,Cada mes,Horas,Tinaco,Red de drenaje público,,3,No
+SI,SIM-0236,Comparación,Campeche,Campeche,,5,Solo en el patio o terreno,Garrafón,1,$200–399,$1–149,Nunca,,Ninguno,Fosa séptica,Cada 1–2 años,3,Sí
+SI,SIM-0204,Comparación,Nuevo León,Monterrey,,3,"Sí, dentro de la vivienda",Garrafón,2,$200–399,$300–499,Nunca,,Ninguno,Red de drenaje público,,3,Sí
+SI,SIM-0038,Mérida,Yucatán,Mérida,Norte,2,"Sí, dentro de la vivienda",Garrafón,1,Menos de $100,$1–149,Nunca,,Tinaco,Pozo o sumidero,,2,Sí
+SI,SIM-0177,Comparación,Ciudad de México,Coyoacán,,4,"Sí, dentro de la vivienda",Garrafón,1,$400–699,$150–299,1–2 veces,Horas,Cisterna,Red de drenaje público,,1,No
+SI,SIM-0176,Comparación,Ciudad de México,Coyoacán,,5,"Sí, dentro de la vivienda",Garrafón,4 o más,$400–699,$500 o más,1–2 veces,Varios días,Tinaco,Red de drenaje público,,3,Sí
+SI,SIM-0228,Comparación,Quintana Roo,Othón P. Blanco,,4,"Sí, dentro de la vivienda",Garrafón,2,$400–699,$150–299,1–2 veces,Horas,Ambos,Red de drenaje público,,1,Sí
+SI,SIM-0084,Mérida,Yucatán,Mérida,Norte,4,"Sí, dentro de la vivienda",Garrafón,1,$100–199,$1–149,Nunca,,Ambos,Fosa séptica,No sé,2,Sí
+SI,SIM-0100,Mérida,Yucatán,Mérida,Sur,3,"Sí, dentro de la vivienda",Garrafón,2,Menos de $100,$150–299,1–2 veces,Horas,Ambos,Fosa séptica,No sé,4,Sí
+SI,SIM-0072,Mérida,Yucatán,Mérida,Norte,5,"Sí, dentro de la vivienda",Garrafón,4 o más,$100–199,$500 o más,Nunca,,Tinaco,No sé,,1,Sí
+SI,SIM-0030,Mérida,Yucatán,Mérida,Sur,2,"Sí, dentro de la vivienda",Garrafón,2,Menos de $100,$150–299,Nunca,,Tinaco,Fosa séptica,No sé,2,Sí
+SI,SIM-0185,Comparación,México,Ecatepec,,3,"Sí, dentro de la vivienda",Garrafón,1,$400–699,$150–299,Nunca,,Ambos,Red de drenaje público,,4,Sí
+SI,SIM-0029,Mérida,Yucatán,Mérida,Centro,4,"Sí, dentro de la vivienda",Garrafón,1,$100–199,$1–149,Nunca,,Tinaco,Pozo o sumidero,,1,Sí
+SI,SIM-0200,Comparación,Nuevo León,Monterrey,,2,"Sí, dentro de la vivienda",Garrafón,3,$200–399,$300–499,Cada mes,Horas,Ninguno,Red de drenaje público,,2,Sí
+SI,SIM-0232,Comparación,Quintana Roo,Othón P. Blanco,,1,"Sí, dentro de la vivienda",Garrafón,2,$100–199,$150–299,Nunca,,Tinaco,Red de drenaje público,,1,Sí
+SI,SIM-0026,Mérida,Yucatán,Mérida,Norte,1,"Sí, dentro de la vivienda",Garrafón,1,Menos de $100,$1–149,Nunca,,Tinaco,Fosa séptica,Más de 2 años,4,Sí
+SI,SIM-0069,Mérida,Yucatán,Mérida,Oriente,4,"Sí, dentro de la vivienda",Garrafón,3,Menos de $100,$300–499,Nunca,,Tinaco,Fosa séptica,Más de 2 años,1,Sí
+SI,SIM-0062,Mérida,Yucatán,Mérida,Norte,5,"Sí, dentro de la vivienda",Garrafón,4 o más,$100–199,$500 o más,Nunca,,Ambos,Fosa séptica,No sé,1,Sí
+SI,SIM-0189,Comparación,México,Toluca,,1,"Sí, dentro de la vivienda",Garrafón,1,$100–199,$150–299,1–2 veces,Varios días,Tinaco,Red de drenaje público,,4,No
+SI,SIM-0258,Comparación,Sonora,Hermosillo,,6,"Sí, dentro de la vivienda",Garrafón,1,$700 o más,$150–299,Cada mes,Varios días,Ninguno,Red de drenaje público,,2,Sí
+SI,SIM-0096,Mérida,Yucatán,Mérida,Poniente,5,"Sí, dentro de la vivienda",Garrafón,4 o más,$100–199,$500 o más,1–2 veces,Horas,Tinaco,Biodigestor,Nunca,2,Sí
+SI,SIM-0109,Mérida,Yucatán,Mérida,Centro,5,"Sí, dentro de la vivienda",Garrafón,4 o más,$100–199,$500 o más,1–2 veces,Horas,Tinaco,Pozo o sumidero,,3,Sí
+SI,SIM-0011,Mérida,Yucatán,Mérida,Norte,2,"Sí, dentro de la vivienda",Garrafón,1,Menos de $100,$1–149,Cada mes,Horas,Tinaco,Pozo o sumidero,,2,Sí
+SI,SIM-0196,Comparación,Nuevo León,Apodaca,,4,"Sí, dentro de la vivienda",Filtro o purificador en casa,0,$400–699,$0,Nunca,,Ninguno,Red de drenaje público,,2,No
+SI,SIM-0127,Mérida,Yucatán,Mérida,Poniente,1,"Sí, dentro de la vivienda",Garrafón,1,Menos de $100,$1–149,Nunca,,Tinaco,Fosa séptica,Más de 2 años,2,Sí
+SI,SIM-0211,Comparación,Jalisco,Tlaquepaque,,3,"Sí, dentro de la vivienda",Garrafón,2,$200–399,$300–499,Nunca,,Ninguno,Red de drenaje público,,3,No
+SI,SIM-0126,Mérida,Yucatán,Mérida,Norte,4,"Sí, dentro de la vivienda",Garrafón,3,$100–199,$300–499,Cada mes,Varios días,Ambos,Biodigestor,Más de 2 años,2,Sí
+SI,SIM-0050,Mérida,Yucatán,Mérida,Norte,2,"Sí, dentro de la vivienda",Garrafón,1,Menos de $100,$1–149,Nunca,,Tinaco,Fosa séptica,Más de 2 años,1,Sí
+SI,SIM-0162,Comparación,Ciudad de México,Iztapalapa,,2,"Sí, dentro de la vivienda",Garrafón,1,$200–399,$150–299,Cada mes,Horas,Ambos,Red de drenaje público,,3,No
+SI,SIM-0002,Mérida,Yucatán,Mérida,Oriente,3,Solo en el patio o terreno,Garrafón,3,Menos de $100,$300–499,Cada mes,1 día,Ninguno,Red de drenaje público,,5,Sí
+SI,SIM-0025,Mérida,Yucatán,Mérida,Norte,4,"Sí, dentro de la vivienda",Agua hervida,0,$100–199,$0,Nunca,,Tinaco,Fosa séptica,Más de 2 años,1,No
+SI,SIM-0172,Comparación,Ciudad de México,Coyoacán,,4,"Sí, dentro de la vivienda",Garrafón,1,$400–699,$150–299,Cada mes,Horas,Tinaco,Fosa séptica,Cada 1–2 años,3,No
+SI,SIM-0174,Comparación,Ciudad de México,Gustavo A. Madero,,5,"Sí, dentro de la vivienda",Garrafón,4 o más,$700 o más,$500 o más,Cada semana,Horas,Tinaco,Red de drenaje público,,3,No
+SI,SIM-0028,Mérida,Yucatán,Mérida,Centro,1,"Sí, dentro de la vivienda",Garrafón,1,Menos de $100,$1–149,Cada mes,Horas,Tinaco,Fosa séptica,Nunca,2,Sí
+SI,SIM-0136,Mérida,Yucatán,Mérida,Centro,4,"Sí, dentro de la vivienda",Garrafón,1,$100–199,$1–149,1–2 veces,Horas,Tinaco,No sé,,3,Sí
+SI,SIM-0123,Mérida,Yucatán,Mérida,Sur,4,"Sí, dentro de la vivienda",Garrafón,1,$200–399,$1–149,Nunca,,Cisterna,Pozo o sumidero,,3,No
+SI,SIM-0001,Mérida,Yucatán,Mérida,Oriente,4,"Sí, dentro de la vivienda",Filtro o purificador en casa,0,$100–199,$0,1–2 veces,1 día,Tinaco,Pozo o sumidero,,3,Sí
+SI,SIM-0089,Mérida,Yucatán,Mérida,Norte,2,"Sí, dentro de la vivienda",Garrafón,3,Menos de $100,$300–499,Nunca,,Ambos,Pozo o sumidero,,2,Sí
+SI,SIM-0229,Comparación,Quintana Roo,Othón P. Blanco,,6,"Sí, dentro de la vivienda",Garrafón,2,$400–699,$150–299,1–2 veces,Horas,Tinaco,Red de drenaje público,,1,Sí
+SI,SIM-0097,Mérida,Yucatán,Mérida,Sur,4,"Sí, dentro de la vivienda",Garrafón,4 o más,$100–199,$500 o más,Nunca,,Tinaco,Fosa séptica,Más de 2 años,2,Sí
+SI,SIM-0039,Mérida,Yucatán,Mérida,Poniente,4,Solo en el patio o terreno,Garrafón,2,$100–199,$150–299,Nunca,,Tinaco,Fosa séptica,No sé,4,No
+SI,SIM-0202,Comparación,Nuevo León,Apodaca,,4,"Sí, dentro de la vivienda",Garrafón,3,$200–399,$300–499,Cada mes,Horas,Ninguno,Fosa séptica,No sé,2,No
+SI,SIM-0216,Comparación,Jalisco,Zapopan,,5,"Sí, dentro de la vivienda",Filtro o purificador en casa,0,$700 o más,$0,Cada semana,Horas,Tinaco,Red de drenaje público,,3,No
+SI,SIM-0106,Mérida,Yucatán,Mérida,Poniente,4,"Sí, dentro de la vivienda",Filtro o purificador en casa,0,$100–199,$0,Nunca,,Tinaco,Fosa séptica,Nunca,2,Sí
+SI,SIM-0132,Mérida,Yucatán,Mérida,Centro,4,"Sí, dentro de la vivienda",Garrafón,2,Menos de $100,$150–299,Nunca,,Ninguno,Fosa séptica,Más de 2 años,3,Sí
+SI,SIM-0125,Mérida,Yucatán,Mérida,Centro,2,"Sí, dentro de la vivienda",Garrafón,1,Menos de $100,$1–149,Cada semana,Varios días,Ninguno,Fosa séptica,Nunca,1,Sí
+SI,SIM-0155,Mérida,Yucatán,Mérida,Sur,5,"Sí, dentro de la vivienda",Filtro o purificador en casa,0,$100–199,$0,Nunca,,Tinaco,Fosa séptica,Nunca,3,Sí
+SI,SIM-0247,Comparación,Puebla,San Andrés Cholula,,5,"Sí, dentro de la vivienda",Garrafón,1,$200–399,$150–299,Nunca,,Ambos,Fosa séptica,Cada 1–2 años,3,No
+SI,SIM-0146,Mérida,Yucatán,Mérida,Oriente,3,"Sí, dentro de la vivienda",Garrafón,1,$100–199,$1–149,1–2 veces,Horas,Tinaco,Red de drenaje público,,3,No
+SI,SIM-0147,Mérida,Yucatán,Mérida,Oriente,5,Solo en el patio o terreno,Garrafón,4 o más,$100–199,$500 o más,1–2 veces,Varios días,Tinaco,Fosa séptica,Más de 2 años,3,No
+SI,SIM-0137,Mérida,Yucatán,Mérida,Oriente,4,"Sí, dentro de la vivienda",Garrafón,4 o más,Menos de $100,$500 o más,Nunca,,Ninguno,Fosa séptica,Nunca,2,Sí
+SI,SIM-0250,Comparación,Guanajuato,León,,6,Solo en el patio o terreno,Garrafón,4 o más,$700 o más,$500 o más,Nunca,,Tinaco,Red de drenaje público,,1,Sí
+SI,SIM-0107,Mérida,Yucatán,Mérida,Centro,3,"Sí, dentro de la vivienda",Garrafón,1,Menos de $100,$1–149,1–2 veces,Horas,Tinaco,Fosa séptica,Cada 1–2 años,2,Sí
+SI,SIM-0020,Mérida,Yucatán,Mérida,Norte,3,"Sí, dentro de la vivienda",Garrafón,1,Menos de $100,$1–149,1–2 veces,1 día,Tinaco,Pozo o sumidero,,4,Sí
+SI,SIM-0023,Mérida,Yucatán,Mérida,Norte,4,"Sí, dentro de la vivienda",Garrafón,4 o más,$100–199,$500 o más,1–2 veces,Horas,Ambos,Pozo o sumidero,,2,Sí
+SI,SIM-0246,Comparación,Puebla,Puebla,,3,"Sí, dentro de la vivienda",Otro,0,$200–399,$0,Nunca,,Tinaco,Red de drenaje público,,4,No
+SI,SIM-0182,Comparación,México,Naucalpan,,5,Solo en el patio o terreno,Garrafón,4 o más,$400–699,$500 o más,Nunca,,Ambos,Red de drenaje público,,1,No
+SI,SIM-0053,Mérida,Yucatán,Mérida,Oriente,1,"Sí, dentro de la vivienda",Garrafón,1,Menos de $100,$1–149,Cada mes,Horas,Tinaco,Red de drenaje público,,3,Sí
+SI,SIM-0210,Comparación,Jalisco,Guadalajara,,4,"Sí, dentro de la vivienda",Filtro o purificador en casa,0,$200–399,$0,Cada semana,Horas,Ninguno,Red de drenaje público,,3,Sí
+SI,SIM-0175,Comparación,Ciudad de México,Coyoacán,,3,"Sí, dentro de la vivienda",Garrafón,1,$200–399,$150–299,Nunca,,Tinaco,Red de drenaje público,,1,Sí
+SI,SIM-0130,Mérida,Yucatán,Mérida,Oriente,2,Solo en el patio o terreno,Llave sin tratar,0,Menos de $100,$0,Cada mes,Horas,Tinaco,Pozo o sumidero,,1,Sí
+SI,SIM-0043,Mérida,Yucatán,Mérida,Poniente,6,"Sí, dentro de la vivienda",Garrafón,4 o más,$200–399,$500 o más,Nunca,,Tinaco,No sé,,2,Sí
+SI,SIM-0115,Mérida,Yucatán,Mérida,Sur,3,"Sí, dentro de la vivienda",Garrafón,2,$100–199,$150–299,Nunca,,Tinaco,Pozo o sumidero,,3,Sí
+SI,SIM-0015,Mérida,Yucatán,Mérida,Norte,3,"Sí, dentro de la vivienda",Llave sin tratar,0,Menos de $100,$0,1–2 veces,Horas,Tinaco,Pozo o sumidero,,1,Sí
+SI,SIM-0195,Comparación,Nuevo León,San Nicolás de los Garza,,4,"Sí, dentro de la vivienda",Agua hervida,0,$400–699,$0,Cada semana,Horas,Ninguno,Red de drenaje público,,2,Sí
+SI,SIM-0064,Mérida,Yucatán,Mérida,Sur,3,Solo en el patio o terreno,Garrafón,3,Menos de $100,$300–499,Nunca,,Ninguno,Fosa séptica,Cada 1–2 años,2,No
+SI,SIM-0140,Mérida,Yucatán,Mérida,Poniente,4,"Sí, dentro de la vivienda",Garrafón,1,$100–199,$1–149,Nunca,,Tinaco,Pozo o sumidero,,1,Sí
+SI,SIM-0233,Comparación,Quintana Roo,Othón P. Blanco,,4,"Sí, dentro de la vivienda",Garrafón,1,$700 o más,$1–149,Cada semana,1 día,Ambos,Fosa séptica,Nunca,2,Sí
+SI,SIM-0041,Mérida,Yucatán,Mérida,Sur,7,"Sí, dentro de la vivienda",Otro,0,$100–199,$0,Nunca,,Ambos,Biodigestor,No sé,1,Sí
+SI,SIM-0075,Mérida,Yucatán,Mérida,Norte,1,Solo en el patio o terreno,Garrafón,1,Menos de $100,$1–149,Cada mes,Horas,Tinaco,No sé,,1,Sí
+SI,SIM-0066,Mérida,Yucatán,Mérida,Norte,3,"Sí, dentro de la vivienda",Garrafón,2,$100–199,$150–299,Nunca,,Tinaco,Biodigestor,Más de 2 años,2,Sí
+SI,SIM-0105,Mérida,Yucatán,Mérida,Oriente,6,"Sí, dentro de la vivienda",Garrafón,4 o más,$200–399,$500 o más,1–2 veces,Horas,Ambos,Red de drenaje público,,1,No
+SI,SIM-0081,Mérida,Yucatán,Mérida,Centro,3,"Sí, dentro de la vivienda",Garrafón,2,Menos de $100,$150–299,Nunca,,Ambos,Fosa séptica,No sé,2,Sí
+SI,SIM-0093,Mérida,Yucatán,Mérida,Poniente,3,"Sí, dentro de la vivienda",Garrafón,2,$100–199,$150–299,Nunca,,Tinaco,Red de drenaje público,,2,No
+SI,SIM-0153,Mérida,Yucatán,Mérida,Oriente,3,"Sí, dentro de la vivienda",Garrafón,1,Menos de $100,$1–149,Cada mes,1 día,Ambos,Pozo o sumidero,,3,Sí
+SI,SIM-0139,Mérida,Yucatán,Mérida,Oriente,4,"Sí, dentro de la vivienda",Garrafón,4 o más,$100–199,$500 o más,Cada mes,Varios días,Tinaco,Fosa séptica,Más de 2 años,3,No
+SI,SIM-0014,Mérida,Yucatán,Mérida,Norte,1,Solo en el patio o terreno,Garrafón,1,Menos de $100,$1–149,1–2 veces,Horas,Tinaco,Fosa séptica,Nunca,3,Sí
+SI,SIM-0237,Comparación,Campeche,Carmen,,6,"Sí, dentro de la vivienda",Garrafón,4 o más,$200–399,$500 o más,Nunca,,Ninguno,Red de drenaje público,,1,Sí
+SI,SIM-0088,Mérida,Yucatán,Mérida,Poniente,2,"Sí, dentro de la vivienda",Garrafón,1,Menos de $100,$1–149,Cada semana,1 día,Ambos,Pozo o sumidero,,2,Sí
+SI,SIM-0191,Comparación,México,Naucalpan,,5,"Sí, dentro de la vivienda",Garrafón,2,$400–699,$300–499,1–2 veces,Varios días,Ninguno,Pozo o sumidero,,2,Sí
+SI,SIM-0239,Comparación,Campeche,Campeche,,5,"Sí, dentro de la vivienda",Garrafón,4 o más,$400–699,$500 o más,1–2 veces,Horas,Tinaco,Fosa séptica,Cada 1–2 años,3,No
+SI,SIM-0260,Comparación,Sonora,Hermosillo,,4,"Sí, dentro de la vivienda",Garrafón,4 o más,$400–699,$500 o más,1–2 veces,Horas,Tinaco,Red de drenaje público,,2,Sí
+SI,SIM-0245,Comparación,Puebla,Puebla,,5,"Sí, dentro de la vivienda",Filtro o purificador en casa,0,$400–699,$0,Cada mes,1 día,Cisterna,Red de drenaje público,,3,Sí
+SI,SIM-0091,Mérida,Yucatán,Mérida,Centro,2,"Sí, dentro de la vivienda",Agua hervida,0,Menos de $100,$0,1–2 veces,Horas,Tinaco,Fosa séptica,No sé,3,Sí
+SI,SIM-0253,Comparación,Guanajuato,Celaya,,3,"Sí, dentro de la vivienda",Garrafón,1,$200–399,$150–299,Nunca,,Tinaco,Red de drenaje público,,2,Sí
+SI,SIM-0171,Comparación,Ciudad de México,Gustavo A. Madero,,3,"Sí, dentro de la vivienda",Garrafón,1,$400–699,$150–299,1–2 veces,Varios días,Ambos,Red de drenaje público,,1,No
+SI,SIM-0198,Comparación,Nuevo León,Guadalupe,,6,"Sí, dentro de la vivienda",Garrafón,2,$400–699,$300–499,1–2 veces,Horas,Ninguno,Red de drenaje público,,4,Sí
+SI,SIM-0094,Mérida,Yucatán,Mérida,Sur,3,"Sí, dentro de la vivienda",Garrafón,2,Menos de $100,$150–299,1–2 veces,Varios días,Tinaco,Fosa séptica,Más de 2 años,3,Sí
+SI,SIM-0212,Comparación,Jalisco,Guadalajara,,3,"Sí, dentro de la vivienda",Filtro o purificador en casa,0,$400–699,$0,Cada semana,Varios días,Ambos,Fosa séptica,Nunca,3,No
+SI,SIM-0044,Mérida,Yucatán,Mérida,Sur,3,Solo en el patio o terreno,Agua hervida,0,Menos de $100,$0,Nunca,,Ninguno,Fosa séptica,No sé,3,Sí
+SI,SIM-0235,Comparación,Campeche,Carmen,,5,"Sí, dentro de la vivienda",Garrafón,1,$200–399,$1–149,1–2 veces,Varios días,Ambos,Fosa séptica,Nunca,2,Sí
+SI,SIM-0205,Comparación,Nuevo León,Apodaca,,3,"Sí, dentro de la vivienda",Filtro o purificador en casa,0,$200–399,$0,Nunca,,Ninguno,Red de drenaje público,,3,Sí
+SI,SIM-0102,Mérida,Yucatán,Mérida,Norte,4,"Sí, dentro de la vivienda",Garrafón,3,$100–199,$300–499,1–2 veces,Horas,Tinaco,Red de drenaje público,,2,Sí
+SI,SIM-0103,Mérida,Yucatán,Mérida,Norte,3,Solo en el patio o terreno,Garrafón,2,Menos de $100,$150–299,Nunca,,Ambos,Pozo o sumidero,,2,Sí
+SI,SIM-0055,Mérida,Yucatán,Mérida,Sur,3,"Sí, dentro de la vivienda",Garrafón,1,Menos de $100,$1–149,1–2 veces,Horas,Tinaco,Pozo o sumidero,,2,No
+SI,SIM-0249,Comparación,Guanajuato,Irapuato,,1,"Sí, dentro de la vivienda",Garrafón,1,Menos de $100,$150–299,Cada semana,Horas,Cisterna,Red de drenaje público,,1,Sí
+SI,SIM-0213,Comparación,Jalisco,Guadalajara,,6,"Sí, dentro de la vivienda",Garrafón,4 o más,$400–699,$500 o más,1–2 veces,Horas,Tinaco,Red de drenaje público,,2,No
+SI,SIM-0113,Mérida,Yucatán,Mérida,Sur,3,"Sí, dentro de la vivienda",Garrafón,1,Menos de $100,$1–149,1–2 veces,Horas,Tinaco,Pozo o sumidero,,1,Sí
+SI,SIM-0242,Comparación,Puebla,San Andrés Cholula,,2,"Sí, dentro de la vivienda",Garrafón,4 o más,$200–399,$500 o más,Cada semana,Horas,Ambos,Red de drenaje público,,1,No
+SI,SIM-0209,Comparación,Jalisco,Tlaquepaque,,5,"Sí, dentro de la vivienda",Filtro o purificador en casa,0,$700 o más,$0,Nunca,,Tinaco,Red de drenaje público,,4,No
+SI,SIM-0090,Mérida,Yucatán,Mérida,Norte,4,Solo en el patio o terreno,Filtro o purificador en casa,0,Menos de $100,$0,Nunca,,Tinaco,Red de drenaje público,,1,Sí
+SI,SIM-0208,Comparación,Jalisco,Zapopan,,3,"Sí, dentro de la vivienda",Garrafón,1,$200–399,$150–299,1–2 veces,Horas,Ambos,Red de drenaje público,,3,No
+SI,SIM-0076,Mérida,Yucatán,Mérida,Poniente,3,Solo en el patio o terreno,Garrafón,1,$100–199,$1–149,Nunca,,Tinaco,Pozo o sumidero,,1,Sí
+SI,SIM-0060,Mérida,Yucatán,Mérida,Norte,5,"Sí, dentro de la vivienda",Otro,0,$100–199,$0,Cada mes,Horas,Tinaco,Fosa séptica,Nunca,2,Sí
+SI,SIM-0256,Comparación,Sonora,Hermosillo,,4,"Sí, dentro de la vivienda",Garrafón,4 o más,$400–699,$500 o más,Nunca,,Tinaco,Red de drenaje público,,3,No
+SI,SIM-0214,Comparación,Jalisco,Tlaquepaque,,3,"Sí, dentro de la vivienda",Otro,0,$400–699,$0,1–2 veces,Horas,Tinaco,Red de drenaje público,,2,Sí
+SI,SIM-0152,Mérida,Yucatán,Mérida,Centro,4,"Sí, dentro de la vivienda",Filtro o purificador en casa,1,$100–199,$1–149,Nunca,,Tinaco,Red de drenaje público,,2,Sí
+SI,SIM-0024,Mérida,Yucatán,Mérida,Norte,2,Solo en el patio o terreno,Garrafón,1,Menos de $100,$1–149,Nunca,,Tinaco,No sé,,1,Sí
+SI,SIM-0215,Comparación,Jalisco,Zapopan,,4,"Sí, dentro de la vivienda",Garrafón,1,$200–399,$150–299,Nunca,,Ambos,Red de drenaje público,,2,No
+SI,SIM-0207,Comparación,Jalisco,Zapopan,,2,"Sí, dentro de la vivienda",Garrafón,1,$100–199,$150–299,Cada semana,Horas,Cisterna,Red de drenaje público,,2,No
+SI,SIM-0173,Comparación,Ciudad de México,Tlalpan,,3,"Sí, dentro de la vivienda",Garrafón,1,$400–699,$150–299,Cada mes,Horas,Ambos,Red de drenaje público,,2,Sí
+SI,SIM-0036,Mérida,Yucatán,Mérida,Oriente,2,Solo en el patio o terreno,Garrafón,2,Menos de $100,$150–299,1–2 veces,Varios días,Ambos,Fosa séptica,Nunca,2,Sí
+SI,SIM-0134,Mérida,Yucatán,Mérida,Sur,3,"Sí, dentro de la vivienda",Garrafón,2,Menos de $100,$150–299,Nunca,,Tinaco,Pozo o sumidero,,1,Sí
+SI,SIM-0082,Mérida,Yucatán,Mérida,Norte,3,"Sí, dentro de la vivienda",Garrafón,1,$100–199,$1–149,Nunca,,Tinaco,No sé,,2,Sí
+SI,SIM-0034,Mérida,Yucatán,Mérida,Centro,3,"Sí, dentro de la vivienda",Garrafón,4 o más,Menos de $100,$500 o más,1–2 veces,Horas,Tinaco,Fosa séptica,No sé,2,Sí
+SI,SIM-0230,Comparación,Quintana Roo,Benito Juárez (Cancún),,1,"Sí, dentro de la vivienda",Garrafón,1,$100–199,$1–149,Nunca,,Tinaco,Red de drenaje público,,3,Sí
+SI,SIM-0148,Mérida,Yucatán,Mérida,Norte,4,Solo en el patio o terreno,Filtro o purificador en casa,0,$100–199,$0,Cada semana,Horas,Tinaco,Fosa séptica,No sé,3,Sí
+SI,SIM-0017,Mérida,Yucatán,Mérida,Centro,2,"Sí, dentro de la vivienda",Llave sin tratar,0,Menos de $100,$0,Cada semana,1 día,Tinaco,Biodigestor,Cada 1–2 años,3,Sí
+SI,SIM-0168,Comparación,Ciudad de México,Coyoacán,,4,"Sí, dentro de la vivienda",Garrafón,2,$400–699,$300–499,Cada mes,Horas,Tinaco,Red de drenaje público,,3,No
+SI,SIM-0004,Mérida,Yucatán,Mérida,Oriente,1,"Sí, dentro de la vivienda",Garrafón,1,Menos de $100,$1–149,Nunca,,Ambos,Biodigestor,Nunca,2,Sí
+SI,SIM-0138,Mérida,Yucatán,Mérida,Sur,4,Solo en el patio o terreno,Garrafón,2,$100–199,$150–299,Cada semana,Horas,Tinaco,No sé,,2,Sí
+SI,SIM-0203,Comparación,Nuevo León,Guadalupe,,5,"Sí, dentro de la vivienda",Filtro o purificador en casa,0,$400–699,$0,1–2 veces,1 día,Ninguno,Red de drenaje público,,4,No
+SI,SIM-0098,Mérida,Yucatán,Mérida,Sur,5,"Sí, dentro de la vivienda",Garrafón,4 o más,Menos de $100,$500 o más,Nunca,,Tinaco,Fosa séptica,Nunca,2,Sí
+SI,SIM-0161,Comparación,Ciudad de México,Iztapalapa,,1,"Sí, dentro de la vivienda",Filtro o purificador en casa,0,$200–399,$0,1–2 veces,Horas,Ninguno,Red de drenaje público,,3,No
+SI,SIM-0073,Mérida,Yucatán,Mérida,Centro,6,"Sí, dentro de la vivienda",Garrafón,4 o más,$100–199,$500 o más,Cada mes,Horas,Cisterna,Fosa séptica,Nunca,1,Sí
+SI,SIM-0154,Mérida,Yucatán,Mérida,Centro,5,"Sí, dentro de la vivienda",Filtro o purificador en casa,0,$100–199,$0,Nunca,,Cisterna,Red de drenaje público,,2,Sí
+SI,SIM-0052,Mérida,Yucatán,Mérida,Oriente,2,"Sí, dentro de la vivienda",Garrafón,1,Menos de $100,$1–149,Nunca,,Tinaco,Fosa séptica,Más de 2 años,1,Sí
+SI,SIM-0226,Comparación,Quintana Roo,Benito Juárez (Cancún),,2,"Sí, dentro de la vivienda",Garrafón,1,$200–399,$1–149,Nunca,,Ninguno,Red de drenaje público,,3,Sí
+SI,SIM-0219,Comparación,Chihuahua,Juárez,,4,"Sí, dentro de la vivienda",Garrafón,3,$200–399,$300–499,Cada mes,Horas,Ninguno,Red de drenaje público,,4,No
+SI,SIM-0110,Mérida,Yucatán,Mérida,Sur,2,Solo en el patio o terreno,Garrafón,3,$100–199,$300–499,Cada semana,1 día,Tinaco,Pozo o sumidero,,2,Sí
+SI,SIM-0045,Mérida,Yucatán,Mérida,Norte,2,"Sí, dentro de la vivienda",Garrafón,1,$100–199,$1–149,Nunca,,Tinaco,Fosa séptica,Más de 2 años,2,Sí
+SI,SIM-0220,Comparación,Chihuahua,Chihuahua,,2,"Sí, dentro de la vivienda",Llave sin tratar,0,$400–699,$0,Cada mes,1 día,Ninguno,Fosa séptica,No sé,1,Sí
+SI,SIM-0067,Mérida,Yucatán,Mérida,Centro,4,"Sí, dentro de la vivienda",Llave sin tratar,1,$100–199,$1–149,1–2 veces,Horas,Ambos,Fosa séptica,No sé,3,Sí
+SI,SIM-0164,Comparación,Ciudad de México,Coyoacán,,3,"Sí, dentro de la vivienda",Agua hervida,0,$700 o más,$0,Cada semana,1 día,Tinaco,Red de drenaje público,,1,Sí
+SI,SIM-0065,Mérida,Yucatán,Mérida,Sur,2,"Sí, dentro de la vivienda",Garrafón,1,Menos de $100,$1–149,1–2 veces,Horas,Tinaco,Fosa séptica,No sé,2,Sí
+SI,SIM-0223,Comparación,Chihuahua,Juárez,,2,"Sí, dentro de la vivienda",Llave sin tratar,0,$100–199,$0,1–2 veces,Horas,Ninguno,Red de drenaje público,,2,Sí
+SI,SIM-0206,Comparación,Nuevo León,Guadalupe,,5,"Sí, dentro de la vivienda",Garrafón,3,$400–699,$300–499,1–2 veces,Varios días,Ninguno,Red de drenaje público,,2,Sí
+SI,SIM-0027,Mérida,Yucatán,Mérida,Sur,5,"Sí, dentro de la vivienda",Garrafón,2,$100–199,$150–299,1–2 veces,1 día,Ambos,Fosa séptica,Más de 2 años,4,Sí
+SI,SIM-0032,Mérida,Yucatán,Mérida,Centro,4,"Sí, dentro de la vivienda",Garrafón,3,$100–199,$300–499,Nunca,,Ambos,No sé,,2,No
+SI,SIM-0128,Mérida,Yucatán,Mérida,Oriente,4,Solo en el patio o terreno,Garrafón,3,Menos de $100,$300–499,1–2 veces,Horas,Ninguno,Pozo o sumidero,,1,Sí
+SI,SIM-0007,Mérida,Yucatán,Mérida,Norte,4,Solo en el patio o terreno,Garrafón,4 o más,Menos de $100,$500 o más,Nunca,,Ambos,Fosa séptica,Cada 1–2 años,2,Sí
+SI,SIM-0179,Comparación,México,Nezahualcóyotl,,4,"Sí, dentro de la vivienda",Garrafón,3,$400–699,$300–499,Cada mes,Horas,Tinaco,Fosa séptica,No sé,2,Sí
+SI,SIM-0061,Mérida,Yucatán,Mérida,Poniente,4,"Sí, dentro de la vivienda",Garrafón,1,$100–199,$1–149,Cada mes,Horas,Ninguno,Biodigestor,Nunca,3,Sí
+SI,SIM-0157,Mérida,Yucatán,Mérida,Poniente,3,"Sí, dentro de la vivienda",Garrafón,1,Menos de $100,$1–149,Nunca,,Tinaco,Pozo o sumidero,,2,Sí
+SI,SIM-0183,Comparación,México,Naucalpan,,6,"Sí, dentro de la vivienda",Filtro o purificador en casa,1,$400–699,$150–299,1–2 veces,Varios días,Ambos,Red de drenaje público,,2,Sí
+SI,SIM-0047,Mérida,Yucatán,Mérida,Oriente,4,"Sí, dentro de la vivienda",Filtro o purificador en casa,0,$100–199,$0,Nunca,,Cisterna,Pozo o sumidero,,2,No
+SI,SIM-0009,Mérida,Yucatán,Mérida,Norte,3,"Sí, dentro de la vivienda",Garrafón,3,Menos de $100,$300–499,1–2 veces,Varios días,Tinaco,Fosa séptica,Nunca,1,Sí
+SI,SIM-0021,Mérida,Yucatán,Mérida,Oriente,3,"Sí, dentro de la vivienda",Garrafón,4 o más,$100–199,$500 o más,Nunca,,Tinaco,Fosa séptica,Más de 2 años,2,Sí
+SI,SIM-0122,Mérida,Yucatán,Mérida,Oriente,4,"Sí, dentro de la vivienda",Garrafón,2,$100–199,$150–299,Nunca,,Tinaco,Fosa séptica,Más de 2 años,1,No
+SI,SIM-0063,Mérida,Yucatán,Mérida,Oriente,4,"Sí, dentro de la vivienda",Garrafón,3,Menos de $100,$300–499,Cada mes,Horas,Tinaco,Fosa séptica,Nunca,4,Sí
+SI,SIM-0169,Comparación,Ciudad de México,Gustavo A. Madero,,3,"Sí, dentro de la vivienda",Garrafón,1,$400–699,$150–299,1–2 veces,Horas,Ambos,Red de drenaje público,,2,No
+SI,SIM-0221,Comparación,Chihuahua,Chihuahua,,2,"Sí, dentro de la vivienda",Garrafón,1,$100–199,$150–299,Nunca,,Ninguno,Red de drenaje público,,2,Sí
+SI,SIM-0224,Comparación,Chihuahua,Juárez,,1,"Sí, dentro de la vivienda",Garrafón,1,$100–199,$150–299,Nunca,,Ninguno,Red de drenaje público,,1,Sí
+SI,SIM-0068,Mérida,Yucatán,Mérida,Norte,5,"Sí, dentro de la vivienda",Garrafón,3,$100–199,$300–499,Cada mes,Horas,Tinaco,Pozo o sumidero,,1,Sí
+SI,SIM-0117,Mérida,Yucatán,Mérida,Poniente,4,"Sí, dentro de la vivienda",Agua hervida,0,Menos de $100,$0,Nunca,,Cisterna,Biodigestor,Cada 1–2 años,2,Sí
+SI,SIM-0166,Comparación,Ciudad de México,Iztapalapa,,3,"Sí, dentro de la vivienda",Garrafón,1,$700 o más,$150–299,Cada semana,Horas,Ambos,Red de drenaje público,,4,Sí
+SI,SIM-0054,Mérida,Yucatán,Mérida,Norte,2,"Sí, dentro de la vivienda",Garrafón,1,Menos de $100,$1–149,1–2 veces,Horas,Tinaco,Red de drenaje público,,2,Sí
+SI,SIM-0086,Mérida,Yucatán,Mérida,Norte,3,"Sí, dentro de la vivienda",Filtro o purificador en casa,0,Menos de $100,$0,1–2 veces,1 día,Ninguno,Red de drenaje público,,1,Sí
+SI,SIM-0225,Comparación,Quintana Roo,Benito Juárez (Cancún),,3,Solo en el patio o terreno,Filtro o purificador en casa,1,$100–199,$1–149,Cada mes,Horas,Ambos,Red de drenaje público,,3,Sí
+SI,SIM-0181,Comparación,México,Naucalpan,,4,Solo en el patio o terreno,Agua hervida,0,$400–699,$0,Cada mes,1 día,Tinaco,Red de drenaje público,,2,Sí
+SI,SIM-0031,Mérida,Yucatán,Mérida,Norte,3,Solo en el patio o terreno,Garrafón,1,$100–199,$1–149,Nunca,,Ambos,Fosa séptica,Nunca,3,Sí
+SI,SIM-0187,Comparación,México,Ecatepec,,7,"Sí, dentro de la vivienda",Garrafón,4 o más,$400–699,$500 o más,1–2 veces,1 día,Ambos,Red de drenaje público,,2,Sí
+SI,SIM-0078,Mérida,Yucatán,Mérida,Sur,3,Solo en el patio o terreno,Filtro o purificador en casa,0,Menos de $100,$0,Nunca,,Ambos,Fosa séptica,Cada 1–2 años,2,Sí
+SI,SIM-0192,Comparación,México,Naucalpan,,3,"Sí, dentro de la vivienda",Garrafón,1,$200–399,$150–299,Cada mes,1 día,Tinaco,Red de drenaje público,,2,No
+SI,SIM-0257,Comparación,Sonora,Cajeme,,4,"Sí, dentro de la vivienda",Filtro o purificador en casa,0,$400–699,$0,Cada mes,Horas,Tinaco,Red de drenaje público,,2,No
+SI,SIM-0151,Mérida,Yucatán,Mérida,Norte,2,"Sí, dentro de la vivienda",Garrafón,1,Menos de $100,$1–149,Nunca,,Tinaco,Fosa séptica,Cada 1–2 años,2,No
+SI,SIM-0040,Mérida,Yucatán,Mérida,Oriente,2,Solo en el patio o terreno,Garrafón,1,Menos de $100,$1–149,Nunca,,Tinaco,Fosa séptica,Nunca,1,Sí
+SI,SIM-0095,Mérida,Yucatán,Mérida,Norte,4,"Sí, dentro de la vivienda",Garrafón,3,$100–199,$300–499,Cada mes,Varios días,Tinaco,Fosa séptica,Nunca,1,Sí
+SI,SIM-0129,Mérida,Yucatán,Mérida,Sur,6,"Sí, dentro de la vivienda",Garrafón,4 o más,$100–199,$500 o más,Nunca,,Tinaco,Red de drenaje público,,1,Sí
+SI,SIM-0005,Mérida,Yucatán,Mérida,Centro,2,Solo en el patio o terreno,Garrafón,1,$100–199,$1–149,1–2 veces,Horas,Tinaco,Fosa séptica,Cada 1–2 años,1,Sí
+SI,SIM-0116,Mérida,Yucatán,Mérida,Oriente,3,"Sí, dentro de la vivienda",Filtro o purificador en casa,0,Menos de $100,$0,1–2 veces,Horas,Tinaco,Red de drenaje público,,4,Sí
+SI,SIM-0087,Mérida,Yucatán,Mérida,Centro,5,Solo en el patio o terreno,Garrafón,4 o más,$100–199,$500 o más,Nunca,,Ninguno,Red de drenaje público,,2,Sí
+SI,SIM-0227,Comparación,Quintana Roo,Solidaridad,,6,"Sí, dentro de la vivienda",Garrafón,3,$400–699,$300–499,Cada mes,Horas,Tinaco,Red de drenaje público,,1,Sí
+SI,SIM-0083,Mérida,Yucatán,Mérida,Norte,4,Solo en el patio o terreno,Garrafón,2,Menos de $100,$150–299,Cada mes,Varios días,Tinaco,No sé,,3,Sí
+SI,SIM-0037,Mérida,Yucatán,Mérida,Norte,4,"Sí, dentro de la vivienda",Garrafón,2,Menos de $100,$150–299,Nunca,,Tinaco,Fosa séptica,Nunca,2,Sí
+SI,SIM-0238,Comparación,Campeche,Carmen,,4,"Sí, dentro de la vivienda",Garrafón,2,$200–399,$150–299,Nunca,,Ninguno,No sé,,1,Sí
+SI,SIM-0092,Mérida,Yucatán,Mérida,Norte,3,Solo en el patio o terreno,Garrafón,1,Menos de $100,$1–149,Cada mes,Horas,Ambos,Fosa séptica,Nunca,2,Sí
+SI,SIM-0255,Comparación,Sonora,Hermosillo,,3,"Sí, dentro de la vivienda",Llave sin tratar,0,$400–699,$0,Cada mes,Horas,Ninguno,Fosa séptica,Más de 2 años,2,Sí
+SI,SIM-0259,Comparación,Sonora,Cajeme,,3,"Sí, dentro de la vivienda",Garrafón,1,$400–699,$150–299,Cada mes,Horas,Tinaco,Red de drenaje público,,2,No
+SI,SIM-0159,Mérida,Yucatán,Mérida,Sur,4,"Sí, dentro de la vivienda",Otro,1,Menos de $100,$1–149,1–2 veces,Horas,Tinaco,Pozo o sumidero,,3,Sí
+SI,SIM-0121,Mérida,Yucatán,Mérida,Oriente,3,"Sí, dentro de la vivienda",Garrafón,3,$100–199,$300–499,1–2 veces,Horas,Tinaco,Fosa séptica,Más de 2 años,3,No
+SI,SIM-0133,Mérida,Yucatán,Mérida,Poniente,2,"Sí, dentro de la vivienda",Garrafón,1,Menos de $100,$1–149,1–2 veces,Horas,Tinaco,Biodigestor,Cada 1–2 años,3,Sí
+SI,SIM-0033,Mérida,Yucatán,Mérida,Poniente,3,"Sí, dentro de la vivienda",Garrafón,2,$100–199,$150–299,Nunca,,Tinaco,Fosa séptica,Nunca,2,Sí
+SI,SIM-0178,Comparación,Ciudad de México,Iztapalapa,,5,"Sí, dentro de la vivienda",Agua hervida,0,$700 o más,$0,Cada mes,Horas,Ambos,Red de drenaje público,,3,No
+SI,SIM-0201,Comparación,Nuevo León,Guadalupe,,4,"Sí, dentro de la vivienda",Agua hervida,2,$400–699,$300–499,1–2 veces,1 día,Tinaco,Red de drenaje público,,2,No
+SI,SIM-0170,Comparación,Ciudad de México,Tlalpan,,1,"Sí, dentro de la vivienda",Filtro o purificador en casa,0,$200–399,$0,Cada mes,1 día,Tinaco,Red de drenaje público,,3,No
+SI,SIM-0119,Mérida,Yucatán,Mérida,Norte,3,"Sí, dentro de la vivienda",Garrafón,2,$100–199,$150–299,1–2 veces,1 día,Tinaco,Red de drenaje público,,1,Sí
+SI,SIM-0241,Comparación,Puebla,Puebla,,2,"Sí, dentro de la vivienda",Garrafón,1,$100–199,$150–299,1–2 veces,Horas,Ambos,Red de drenaje público,,3,Sí
+SI,SIM-0071,Mérida,Yucatán,Mérida,Centro,5,"Sí, dentro de la vivienda",Garrafón,4 o más,$100–199,$500 o más,1–2 veces,Horas,Tinaco,Pozo o sumidero,,3,Sí
+SI,SIM-0101,Mérida,Yucatán,Mérida,Oriente,2,"Sí, dentro de la vivienda",Garrafón,2,Menos de $100,$150–299,Nunca,,Ambos,Biodigestor,Más de 2 años,2,Sí
+SI,SIM-0018,Mérida,Yucatán,Mérida,Norte,3,"Sí, dentro de la vivienda",Garrafón,3,Menos de $100,$300–499,Cada mes,Horas,Tinaco,Fosa séptica,Más de 2 años,1,Sí
+SI,SIM-0193,Comparación,Nuevo León,Apodaca,,3,"Sí, dentro de la vivienda",Filtro o purificador en casa,0,$400–699,$0,Cada semana,Varios días,Ninguno,Red de drenaje público,,1,No
+SI,SIM-0008,Mérida,Yucatán,Mérida,Centro,1,"Sí, dentro de la vivienda",Filtro o purificador en casa,0,Menos de $100,$0,Cada semana,1 día,Ambos,Fosa séptica,No sé,1,Sí
+SI,SIM-0231,Comparación,Quintana Roo,Benito Juárez (Cancún),,5,"Sí, dentro de la vivienda",Garrafón,1,$700 o más,$1–149,Cada mes,Horas,Tinaco,Red de drenaje público,,1,Sí
+SI,SIM-0016,Mérida,Yucatán,Mérida,Sur,3,"Sí, dentro de la vivienda",Agua hervida,0,Menos de $100,$0,Nunca,,Ambos,Fosa séptica,No sé,2,Sí
+SI,SIM-0251,Comparación,Guanajuato,Celaya,,4,"Sí, dentro de la vivienda",Filtro o purificador en casa,0,$200–399,$0,Cada semana,Horas,Ninguno,Red de drenaje público,,2,No
+SI,SIM-0243,Comparación,Puebla,Puebla,,2,Solo en el patio o terreno,Garrafón,1,$200–399,$150–299,1–2 veces,Horas,Ninguno,Red de drenaje público,,3,No
+SI,SIM-0111,Mérida,Yucatán,Mérida,Oriente,4,"Sí, dentro de la vivienda",Garrafón,1,$100–199,$1–149,Nunca,,Tinaco,Fosa séptica,No sé,4,Sí
+SI,SIM-0118,Mérida,Yucatán,Mérida,Norte,5,"Sí, dentro de la vivienda",Llave sin tratar,0,$100–199,$0,1–2 veces,Varios días,Tinaco,Fosa séptica,Nunca,4,Sí
+SI,SIM-0112,Mérida,Yucatán,Mérida,Sur,2,Solo en el patio o terreno,Garrafón,1,Menos de $100,$1–149,Nunca,,Ambos,Fosa séptica,Cada 1–2 años,1,No
+SI,SIM-0197,Comparación,Nuevo León,Apodaca,,2,"Sí, dentro de la vivienda",Agua hervida,0,$200–399,$0,Cada semana,Horas,Tinaco,Red de drenaje público,,2,Sí
+SI,SIM-0120,Mérida,Yucatán,Mérida,Oriente,3,Solo en el patio o terreno,Garrafón,1,Menos de $100,$1–149,Cada mes,Horas,Tinaco,Red de drenaje público,,3,No
+SI,SIM-0190,Comparación,México,Ecatepec,,4,Solo en el patio o terreno,Garrafón,3,$400–699,$300–499,Cada semana,Varios días,Tinaco,Red de drenaje público,,2,Sí
+SI,SIM-0131,Mérida,Yucatán,Mérida,Sur,4,"Sí, dentro de la vivienda",Garrafón,2,Menos de $100,$150–299,1–2 veces,1 día,Tinaco,Fosa séptica,No sé,1,Sí
+SI,SIM-0156,Mérida,Yucatán,Mérida,Centro,3,"Sí, dentro de la vivienda",Garrafón,1,$200–399,$1–149,Nunca,,Tinaco,Red de drenaje público,,2,Sí
+SI,SIM-0252,Comparación,Guanajuato,León,,2,"Sí, dentro de la vivienda",Garrafón,1,$100–199,$150–299,1–2 veces,Varios días,Tinaco,Red de drenaje público,,2,Sí
+SI,SIM-0186,Comparación,México,Toluca,,3,"Sí, dentro de la vivienda",Garrafón,1,$400–699,$150–299,Nunca,,Ambos,Red de drenaje público,,3,Sí
+SI,SIM-0141,Mérida,Yucatán,Mérida,Oriente,4,Solo en el patio o terreno,Filtro o purificador en casa,0,$200–399,$0,Nunca,,Tinaco,Fosa séptica,Nunca,3,No
+SI,SIM-0188,Comparación,México,Ecatepec,,4,"Sí, dentro de la vivienda",Agua hervida,0,$400–699,$0,1–2 veces,Horas,Tinaco,Red de drenaje público,,2,Sí
+SI,SIM-0059,Mérida,Yucatán,Mérida,Norte,2,Solo en el patio o terreno,Filtro o purificador en casa,0,Menos de $100,$0,1–2 veces,Horas,Tinaco,Fosa séptica,Nunca,3,Sí
+SI,SIM-0234,Comparación,Quintana Roo,Othón P. Blanco,,4,"Sí, dentro de la vivienda",Garrafón,1,$200–399,$1–149,Cada semana,1 día,Ambos,Red de drenaje público,,2,Sí
+SI,SIM-0180,Comparación,México,Toluca,,3,"Sí, dentro de la vivienda",Garrafón,4 o más,$400–699,$500 o más,Nunca,,Ninguno,Red de drenaje público,,1,No
+SI,SIM-0046,Mérida,Yucatán,Mérida,Centro,3,"Sí, dentro de la vivienda",Garrafón,1,Menos de $100,$1–149,Nunca,,Tinaco,Red de drenaje público,,2,Sí
+SI,SIM-0150,Mérida,Yucatán,Mérida,Centro,6,"Sí, dentro de la vivienda",Garrafón,4 o más,$100–199,$500 o más,Nunca,,Tinaco,Fosa séptica,Más de 2 años,2,Sí
+SI,SIM-0194,Comparación,Nuevo León,Guadalupe,,4,Solo en el patio o terreno,Garrafón,4 o más,$200–399,$500 o más,1–2 veces,Horas,Ninguno,Red de drenaje público,,1,Sí
+SI,SIM-0218,Comparación,Chihuahua,Juárez,,4,"Sí, dentro de la vivienda",Filtro o purificador en casa,0,$200–399,$0,1–2 veces,1 día,Ninguno,Red de drenaje público,,2,No
+SI,SIM-0240,Comparación,Campeche,Campeche,,3,Solo en el patio o terreno,Garrafón,3,$200–399,$300–499,Nunca,,Tinaco,Red de drenaje público,,3,Sí
+SI,SIM-0074,Mérida,Yucatán,Mérida,Oriente,3,"Sí, dentro de la vivienda",Garrafón,3,Menos de $100,$300–499,1–2 veces,1 día,Tinaco,Fosa séptica,No sé,2,Sí
+SI,SIM-0160,Mérida,Yucatán,Mérida,Sur,2,"Sí, dentro de la vivienda",Garrafón,1,Menos de $100,$1–149,Nunca,,Tinaco,Fosa séptica,Más de 2 años,2,Sí
+SI,SIM-0167,Comparación,Ciudad de México,Tlalpan,,3,No,Garrafón,2,$0 / no paga,$300–499,Cada mes,Horas,Cisterna,Red de drenaje público,,2,No
+SI,SIM-0006,Mérida,Yucatán,Mérida,Oriente,3,"Sí, dentro de la vivienda",Garrafón,2,Menos de $100,$150–299,Nunca,,Tinaco,Pozo o sumidero,,2,No
+SI,SIM-0013,Mérida,Yucatán,Mérida,Centro,1,"Sí, dentro de la vivienda",Garrafón,1,Menos de $100,$1–149,1–2 veces,1 día,Tinaco,No sé,,2,Sí
+SI,SIM-0142,Mérida,Yucatán,Mérida,Norte,4,"Sí, dentro de la vivienda",Garrafón,1,Menos de $100,$1–149,1–2 veces,1 día,Tinaco,No sé,,2,Sí
+SI,SIM-0085,Mérida,Yucatán,Mérida,Oriente,4,No,Garrafón,1,$0 / no paga,$1–149,1–2 veces,1 día,Tinaco,Fosa séptica,Cada 1–2 años,1,Sí
+SI,SIM-0012,Mérida,Yucatán,Mérida,Sur,4,"Sí, dentro de la vivienda",Filtro o purificador en casa,0,$100–199,$0,Cada mes,Horas,Tinaco,Red de drenaje público,,2,Sí
+SI,SIM-0254,Comparación,Guanajuato,Irapuato,,4,"Sí, dentro de la vivienda",Filtro o purificador en casa,0,$400–699,$0,1–2 veces,Horas,Ambos,Red de drenaje público,,3,Sí
+SI,SIM-0163,Comparación,Ciudad de México,Gustavo A. Madero,,2,"Sí, dentro de la vivienda",Llave sin tratar,1,$700 o más,$150–299,1–2 veces,1 día,Ninguno,Red de drenaje público,,2,Sí

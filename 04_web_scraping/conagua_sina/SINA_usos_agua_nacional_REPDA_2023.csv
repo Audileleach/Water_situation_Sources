@@ -1,0 +1,24 @@
+table,corte_repda,grupo_o_uso,clvuso,vol_hm3,pct_consuntivo
+detalle,2023,"Agrícola (inscrito+pendiente)",A,61308.52,
+detalle,2023,"Agroindustrial",B,3.2,
+detalle,2023,"Doméstico",C,37.34,
+detalle,2023,"Acuacultura",D,1168.01,
+detalle,2023,"Servicios",E,1408.24,
+detalle,2023,"Industrial",F1,2786.91,
+detalle,2023,"Termoeléctricas",F2,4035.53,
+detalle,2023,"Pecuario",G,247.32,
+detalle,2023,"Público urbano",H,13465.22,
+detalle,2023,"Múltiples",I,6168.49,
+detalle,2023,"Eléctricidad ó Hidroeléctrica",J,176711.12,
+detalle,2023,"Comercio",K,0.08,
+detalle,2023,"Otros",L,0.6,
+detalle,2023,"Conservación ecológica",N,9.46,
+detalle,2023,"Subtotal no consuntivo",,176720.58,
+detalle,2023,"Subtotal consuntivo",,90629.48,
+detalle,2023,"Total",,267350.06,
+grupo,2023,"Agrícola",A+D+G+I+L,68892.95,76.02
+grupo,2023,"Industrial integrado",B+E+F1+K,4198.44,4.63
+grupo,2023,"Abastecimiento público",C+H,13502.57,14.90
+grupo,2023,"Termoeléctricas",F2,4035.53,4.45
+grupo,2023,"Hidroeléctricas",J,176711.12,
+grupo,2023,"Conservación ecológica",N,9.46,

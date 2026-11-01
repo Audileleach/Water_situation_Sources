@@ -1,0 +1,33 @@
+﻿cve_edo,estado,pozos_red,pozos_con_dato_2025,mediana_profundidad_nivel_estatico_2025_m,pozos_con_dato_2010_y_2025,mediana_cambio_2010_2025_m (positivo=el agua esta mas profunda)
+01,Aguascalientes,131,40,130.2,6,29.76
+02,Baja California,769,34,8.53,11,4.84
+03,Baja California Sur,710,207,22.0,31,1.28
+04,Campeche,210,3,18.45,0,
+05,Coahuila de Zaragoza,889,0,,0,
+06,Colima,339,65,9.25,11,-0.05
+07,Chiapas,718,40,5.69,4,-0.5
+08,Chihuahua,1305,94,37.73,0,
+09,Ciudad de México,124,70,78.11,26,10.38
+10,Durango,981,396,28.0,226,5.0
+11,Guanajuato,302,0,,0,
+12,Guerrero,727,67,2.93,0,
+13,Hidalgo,302,52,35.16,13,1.16
+14,Jalisco,563,0,,0,
+15,México,399,12,99.34,11,7.5
+16,Michoacán de Ocampo,448,19,25.0,0,
+17,Morelos,250,195,32.62,145,2.27
+18,Nayarit,241,61,7.85,0,
+19,Nuevo León,793,82,13.36,0,
+20,Oaxaca,505,36,10.34,34,0.22
+21,Puebla,473,75,40.43,0,
+22,Querétaro,456,28,120.15,0,
+23,Quintana Roo,129,74,11.5,20,0.05
+24,San Luis Potosí,738,5,32.95,0,
+25,Sinaloa,458,0,,0,
+26,Sonora,3010,416,46.81,213,5.12
+27,Tabasco,351,0,,0,
+28,Tamaulipas,1193,88,10.2,0,
+29,Tlaxcala,92,74,79.89,0,
+30,Veracruz de Ignacio de la Llave,810,226,16.19,214,0.18
+31,Yucatán,166,7,4.17,3,-0.27
+32,Zacatecas,1018,207,32.2,69,0.9

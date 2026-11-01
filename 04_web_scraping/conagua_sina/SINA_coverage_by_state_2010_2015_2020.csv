@@ -1,0 +1,199 @@
+indicator,year,clvedo,estado,covered_pop,total_pop,coverage_pct
+agua_entubada,2020,01,"Aguascalientes",1410516,1419988,99.33
+agua_entubada,2020,02,"Baja California",3641772,3728353,97.68
+agua_entubada,2020,03,"Baja California Sur",744338,790700,94.14
+agua_entubada,2020,04,"Campeche",884512,925471,95.57
+agua_entubada,2020,05,"Coahuila de Zaragoza",3099677,3135475,98.86
+agua_entubada,2020,06,"Colima",720473,727238,99.07
+agua_entubada,2020,07,"Chiapas",4901069,5514808,88.87
+agua_entubada,2020,08,"Chihuahua",3651910,3721612,98.13
+agua_entubada,2020,09,"Ciudad de México",9023868,9147377,98.65
+agua_entubada,2020,10,"Durango",1774075,1819591,97.50
+agua_entubada,2020,11,"Guanajuato",5947867,6139221,96.88
+agua_entubada,2020,12,"Guerrero",3100018,3519518,88.08
+agua_entubada,2020,13,"Hidalgo",2949280,3071249,96.03
+agua_entubada,2020,14,"Jalisco",8181452,8295654,98.62
+agua_entubada,2020,15,"México",16435872,16919452,97.14
+agua_entubada,2020,16,"Michoacán",4584390,4721373,97.10
+agua_entubada,2020,17,"Morelos",1873566,1957194,95.73
+agua_entubada,2020,18,"Nayarit",1184616,1222763,96.88
+agua_entubada,2020,19,"Nuevo León",5706110,5765893,98.96
+agua_entubada,2020,20,"Oaxaca",3682391,4101154,89.79
+agua_entubada,2020,21,"Puebla",6246575,6557568,95.26
+agua_entubada,2020,22,"Querétaro",2302578,2359715,97.58
+agua_entubada,2020,23,"Quintana Roo",1797700,1849128,97.22
+agua_entubada,2020,24,"San Luis Potosí",2594712,2811874,92.28
+agua_entubada,2020,25,"Sinaloa",2938997,2983189,98.52
+agua_entubada,2020,26,"Sonora",2878972,2919910,98.60
+agua_entubada,2020,27,"Tabasco",2246119,2394994,93.78
+agua_entubada,2020,28,"Tamaulipas",3450766,3513282,98.22
+agua_entubada,2020,29,"Tlaxcala",1306033,1338806,97.55
+agua_entubada,2020,30,"Veracruz de Ignacio de la Llave",7331237,8031248,91.28
+agua_entubada,2020,31,"Yucatán",2285195,2313653,98.77
+agua_entubada,2020,32,"Zacatecas",1584868,1616385,98.05
+agua_entubada,2020,00,"Nacional",120461524,125333836,96.11
+agua_entubada,2015,01,"Aguascalientes",1300635,1311905,99.14
+agua_entubada,2015,02,"Baja California",3204661,3299321,97.13
+agua_entubada,2015,03,"Baja California Sur",658138,709990,92.70
+agua_entubada,2015,04,"Campeche",840907,899476,93.49
+agua_entubada,2015,05,"Coahuila de Zaragoza",2901261,2954398,98.20
+agua_entubada,2015,06,"Colima",703208,710473,98.98
+agua_entubada,2015,07,"Chiapas",4510251,5216820,86.46
+agua_entubada,2015,08,"Chihuahua",3403602,3555570,95.73
+agua_entubada,2015,09,"Ciudad de México",8786688,8912820,98.58
+agua_entubada,2015,10,"Durango",1695957,1754453,96.67
+agua_entubada,2015,11,"Guanajuato",5604237,5852311,95.76
+agua_entubada,2015,12,"Guerrero",2974962,3531658,84.24
+agua_entubada,2015,13,"Hidalgo",2687999,2857099,94.08
+agua_entubada,2015,14,"Jalisco",7686853,7841678,98.03
+agua_entubada,2015,15,"México",15479940,16183020,95.66
+agua_entubada,2015,16,"Michoacán",4383027,4583052,95.64
+agua_entubada,2015,17,"Morelos",1789418,1901681,94.10
+agua_entubada,2015,18,"Nayarit",1128241,1180261,95.59
+agua_entubada,2015,19,"Nuevo León",5034267,5118992,98.34
+agua_entubada,2015,20,"Oaxaca",3387302,3966313,85.40
+agua_entubada,2015,21,"Puebla",5721510,6167494,92.77
+agua_entubada,2015,22,"Querétaro",1969349,2038006,96.63
+agua_entubada,2015,23,"Quintana Roo",1459044,1500218,97.26
+agua_entubada,2015,24,"San Luis Potosí",2424806,2717261,89.24
+agua_entubada,2015,25,"Sinaloa",2873326,2965230,96.90
+agua_entubada,2015,26,"Sonora",2752412,2844136,96.77
+agua_entubada,2015,27,"Tabasco",2149646,2394288,89.78
+agua_entubada,2015,28,"Tamaulipas",3343479,3441198,97.16
+agua_entubada,2015,29,"Tlaxcala",1256823,1272574,98.76
+agua_entubada,2015,30,"Veracruz de Ignacio de la Llave",7018348,8109444,86.55
+agua_entubada,2015,31,"Yucatán",2060408,2096177,98.29
+agua_entubada,2015,32,"Zacatecas",1528432,1578979,96.80
+agua_entubada,2015,00,"Nacional",112719137,119466296,94.35
+agua_entubada,2010,01,"Aguascalientes",1150503,1177687,97.69
+agua_entubada,2010,02,"Baja California",2906565,3074323,94.54
+agua_entubada,2010,03,"Baja California Sur",544100,620566,87.68
+agua_entubada,2010,04,"Campeche",687790,813983,84.50
+agua_entubada,2010,05,"Coahuila de Zaragoza",2613934,2704498,96.65
+agua_entubada,2010,06,"Colima",620722,638872,97.16
+agua_entubada,2010,07,"Chiapas",3448613,4730208,72.91
+agua_entubada,2010,08,"Chihuahua",3086235,3291665,93.76
+agua_entubada,2010,09,"Ciudad de México",8305420,8588972,96.70
+agua_entubada,2010,10,"Durango",1467398,1600143,91.70
+agua_entubada,2010,11,"Guanajuato",4970155,5444741,91.28
+agua_entubada,2010,12,"Guerrero",2026116,3363541,60.24
+agua_entubada,2010,13,"Hidalgo",2287411,2639465,86.66
+agua_entubada,2010,14,"Jalisco",6790743,7230012,93.92
+agua_entubada,2010,15,"México",13632133,14953514,91.16
+agua_entubada,2010,16,"Michoacán",3743653,4288330,87.30
+agua_entubada,2010,17,"Morelos",1510737,1743741,86.64
+agua_entubada,2010,18,"Nayarit",937605,1070295,87.60
+agua_entubada,2010,19,"Nuevo León",4387273,4582448,95.74
+agua_entubada,2010,20,"Oaxaca",2581661,3771663,68.45
+agua_entubada,2010,21,"Puebla",4712176,5710227,82.52
+agua_entubada,2010,22,"Querétaro",1652176,1809908,91.29
+agua_entubada,2010,23,"Quintana Roo",1169267,1302257,89.79
+agua_entubada,2010,24,"San Luis Potosí",2095049,2556679,81.94
+agua_entubada,2010,25,"Sinaloa",2460611,2747428,89.56
+agua_entubada,2010,26,"Sonora",2465329,2615993,94.24
+agua_entubada,2010,27,"Tabasco",1598355,2208377,72.38
+agua_entubada,2010,28,"Tamaulipas",2968635,3157698,94.01
+agua_entubada,2010,29,"Tlaxcala",1109986,1163055,95.44
+agua_entubada,2010,30,"Veracruz de Ignacio de la Llave",5677679,7533923,75.36
+agua_entubada,2010,31,"Yucatán",1823666,1938190,94.09
+agua_entubada,2010,32,"Zacatecas",1346763,1475182,91.29
+agua_entubada,2010,00,"Nacional",96778459,110547584,87.54
+drenaje_acceso,2020,01,"Aguascalientes",1409513,1419988,99.26
+drenaje_acceso,2020,02,"Baja California",3583608,3728353,96.12
+drenaje_acceso,2020,03,"Baja California Sur",766262,790700,96.91
+drenaje_acceso,2020,04,"Campeche",873972,925471,94.44
+drenaje_acceso,2020,05,"Coahuila de Zaragoza",3093057,3135475,98.65
+drenaje_acceso,2020,06,"Colima",722497,727238,99.35
+drenaje_acceso,2020,07,"Chiapas",4944459,5514808,89.66
+drenaje_acceso,2020,08,"Chihuahua",3576287,3721612,96.10
+drenaje_acceso,2020,09,"Ciudad de México",9123074,9147377,99.73
+drenaje_acceso,2020,10,"Durango",1711896,1819591,94.08
+drenaje_acceso,2020,11,"Guanajuato",5933458,6139221,96.65
+drenaje_acceso,2020,12,"Guerrero",3052311,3519518,86.73
+drenaje_acceso,2020,13,"Hidalgo",2920828,3071249,95.10
+drenaje_acceso,2020,14,"Jalisco",8176061,8295654,98.56
+drenaje_acceso,2020,15,"México",16439948,16919452,97.17
+drenaje_acceso,2020,16,"Michoacán",4506697,4721373,95.45
+drenaje_acceso,2020,17,"Morelos",1922246,1957194,98.21
+drenaje_acceso,2020,18,"Nayarit",1162236,1222763,95.05
+drenaje_acceso,2020,19,"Nuevo León",5694653,5765893,98.76
+drenaje_acceso,2020,20,"Oaxaca",3262760,4101154,79.56
+drenaje_acceso,2020,21,"Puebla",6225163,6557568,94.93
+drenaje_acceso,2020,22,"Querétaro",2291312,2359715,97.10
+drenaje_acceso,2020,23,"Quintana Roo",1789789,1849128,96.79
+drenaje_acceso,2020,24,"San Luis Potosí",2543827,2811874,90.47
+drenaje_acceso,2020,25,"Sinaloa",2893519,2983189,96.99
+drenaje_acceso,2020,26,"Sonora",2767398,2919910,94.78
+drenaje_acceso,2020,27,"Tabasco",2341723,2394994,97.78
+drenaje_acceso,2020,28,"Tamaulipas",3331602,3513282,94.83
+drenaje_acceso,2020,29,"Tlaxcala",1294906,1338806,96.72
+drenaje_acceso,2020,30,"Veracruz de Ignacio de la Llave",7265754,8031248,90.47
+drenaje_acceso,2020,31,"Yucatán",2133601,2313653,92.22
+drenaje_acceso,2020,32,"Zacatecas",1557230,1616385,96.34
+drenaje_acceso,2020,00,"Nacional",119311647,125333836,95.20
+drenaje_acceso,2015,01,"Aguascalientes",1296939,1311905,98.86
+drenaje_acceso,2015,02,"Baja California",3181356,3299321,96.42
+drenaje_acceso,2015,03,"Baja California Sur",686268,709990,96.66
+drenaje_acceso,2015,04,"Campeche",826400,899476,91.88
+drenaje_acceso,2015,05,"Coahuila de Zaragoza",2867793,2954398,97.07
+drenaje_acceso,2015,06,"Colima",703762,710473,99.06
+drenaje_acceso,2015,07,"Chiapas",4534776,5216820,86.93
+drenaje_acceso,2015,08,"Chihuahua",3312144,3555570,93.15
+drenaje_acceso,2015,09,"Ciudad de México",8808618,8912820,98.83
+drenaje_acceso,2015,10,"Durango",1611177,1754453,91.83
+drenaje_acceso,2015,11,"Guanajuato",5495146,5852311,93.90
+drenaje_acceso,2015,12,"Guerrero",2886936,3531658,81.74
+drenaje_acceso,2015,13,"Hidalgo",2602414,2857099,91.09
+drenaje_acceso,2015,14,"Jalisco",7698127,7841678,98.17
+drenaje_acceso,2015,15,"México",15461570,16183020,95.54
+drenaje_acceso,2015,16,"Michoacán",4225458,4583052,92.20
+drenaje_acceso,2015,17,"Morelos",1851112,1901681,97.34
+drenaje_acceso,2015,18,"Nayarit",1109952,1180261,94.04
+drenaje_acceso,2015,19,"Nuevo León",4998315,5118992,97.64
+drenaje_acceso,2015,20,"Oaxaca",2910559,3966313,73.38
+drenaje_acceso,2015,21,"Puebla",5602105,6167494,90.83
+drenaje_acceso,2015,22,"Querétaro",1937832,2038006,95.08
+drenaje_acceso,2015,23,"Quintana Roo",1450524,1500218,96.69
+drenaje_acceso,2015,24,"San Luis Potosí",2337003,2717261,86.01
+drenaje_acceso,2015,25,"Sinaloa",2786207,2965230,93.96
+drenaje_acceso,2015,26,"Sonora",2614653,2844136,91.93
+drenaje_acceso,2015,27,"Tabasco",2328937,2394288,97.27
+drenaje_acceso,2015,28,"Tamaulipas",3138677,3441198,91.21
+drenaje_acceso,2015,29,"Tlaxcala",1230503,1272574,96.69
+drenaje_acceso,2015,30,"Veracruz de Ignacio de la Llave",7100277,8109444,87.56
+drenaje_acceso,2015,31,"Yucatán",1819885,2096177,86.82
+drenaje_acceso,2015,32,"Zacatecas",1470594,1578979,93.14
+drenaje_acceso,2015,00,"Nacional",110886019,119466296,92.82
+drenaje_acceso,2010,01,"Aguascalientes",1155150,1177687,98.09
+drenaje_acceso,2010,02,"Baja California",2861731,3074323,93.08
+drenaje_acceso,2010,03,"Baja California Sur",581376,620566,93.68
+drenaje_acceso,2010,04,"Campeche",691195,813983,84.92
+drenaje_acceso,2010,05,"Coahuila de Zaragoza",2580434,2704498,95.41
+drenaje_acceso,2010,06,"Colima",630477,638872,98.69
+drenaje_acceso,2010,07,"Chiapas",3831353,4730208,81.00
+drenaje_acceso,2010,08,"Chihuahua",3031350,3291665,92.09
+drenaje_acceso,2010,09,"Ciudad de México",8508774,8588972,99.07
+drenaje_acceso,2010,10,"Durango",1401900,1600143,87.61
+drenaje_acceso,2010,11,"Guanajuato",4917798,5444741,90.32
+drenaje_acceso,2010,12,"Guerrero",2490584,3363541,74.05
+drenaje_acceso,2010,13,"Hidalgo",2243873,2639465,85.01
+drenaje_acceso,2010,14,"Jalisco",7040658,7230012,97.38
+drenaje_acceso,2010,15,"México",13997994,14953514,93.61
+drenaje_acceso,2010,16,"Michoacán",3772962,4288330,87.98
+drenaje_acceso,2010,17,"Morelos",1656205,1743741,94.98
+drenaje_acceso,2010,18,"Nayarit",996143,1070295,93.07
+drenaje_acceso,2010,19,"Nuevo León",4401187,4582448,96.04
+drenaje_acceso,2010,20,"Oaxaca",2610000,3771663,69.20
+drenaje_acceso,2010,21,"Puebla",4930060,5710227,86.34
+drenaje_acceso,2010,22,"Querétaro",1636469,1809908,90.42
+drenaje_acceso,2010,23,"Quintana Roo",1207393,1302257,92.72
+drenaje_acceso,2010,24,"San Luis Potosí",2036452,2556679,79.65
+drenaje_acceso,2010,25,"Sinaloa",2502314,2747428,91.08
+drenaje_acceso,2010,26,"Sonora",2334090,2615993,89.22
+drenaje_acceso,2010,27,"Tabasco",2106959,2208377,95.41
+drenaje_acceso,2010,28,"Tamaulipas",2744247,3157698,86.91
+drenaje_acceso,2010,29,"Tlaxcala",1099365,1163055,94.52
+drenaje_acceso,2010,30,"Veracruz de Ignacio de la Llave",6219751,7533923,82.56
+drenaje_acceso,2010,31,"Yucatán",1526688,1938190,78.77
+drenaje_acceso,2010,32,"Zacatecas",1313901,1475182,89.07
+drenaje_acceso,2010,00,"Nacional",99058833,110547584,89.61

@@ -1,0 +1,16 @@
+# Files over GitHub's 100 MB limit.
+# Re-download them with:  python scripts/descargar_archivos_grandes.py
+01_AR_cenotes/hells_bells/Mesh_seg_bright.ply
+01_AR_cenotes/hells_bells/Mesh_seg_bright.nxz
+02_LiDAR/nasa_gliht_2013/dtm/
+02_LiDAR/nasa_gliht_2013/dtm_sample/
+
+# Third-party report that is not openly licensed: the script downloads it from Greenpeace.
+05_public_replacement/sds_salud_granjas_cenotes/greenpeace_2026/
+
+# Local clutter
+__pycache__/
+*.pyc
+.DS_Store
+Thumbs.db
+desktop.ini

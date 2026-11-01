@@ -1,0 +1,25 @@
+﻿simulado,muestra,tipo,zona_merida,replica,tds_ppm_medidor,temperatura_c,dureza_tira_ppm,nitratos_tira_ppm_NO3,valor_simulado_dureza_mg_L,valor_simulado_nitrato_mg_L_NO3
+SI,Llave - zona Norte,Llave (red JAPAY),Norte,1,752,29.3,425,10,398.2,17.1
+SI,Llave - zona Norte,Llave (red JAPAY),Norte,2,736,27.7,425,10,398.2,17.1
+SI,Llave - zona Norte,Llave (red JAPAY),Norte,3,721,30.2,425,10,398.2,17.1
+SI,Llave - zona Sur,Llave (red JAPAY),Sur,1,673,28.6,425+,10,500.8,16.5
+SI,Llave - zona Sur,Llave (red JAPAY),Sur,2,651,30.0,425+,10,500.8,16.5
+SI,Llave - zona Sur,Llave (red JAPAY),Sur,3,632,29.0,425+,10,500.8,16.5
+SI,Llave - zona Oriente,Llave (red JAPAY),Oriente,1,511,30.3,425,10,365.5,16.7
+SI,Llave - zona Oriente,Llave (red JAPAY),Oriente,2,539,27.8,425,10,365.5,16.7
+SI,Llave - zona Oriente,Llave (red JAPAY),Oriente,3,505,28.2,425,10,365.5,16.7
+SI,Llave - zona Poniente,Llave (red JAPAY),Poniente,1,636,28.6,425+,10,504.4,12.4
+SI,Llave - zona Poniente,Llave (red JAPAY),Poniente,2,606,29.9,425+,10,504.4,12.4
+SI,Llave - zona Poniente,Llave (red JAPAY),Poniente,3,649,29.8,425+,10,504.4,12.4
+SI,Llave - zona Centro,Llave (red JAPAY),Centro,1,662,28.1,425+,25,594.4,25.9
+SI,Llave - zona Centro,Llave (red JAPAY),Centro,2,608,28.3,425+,25,594.4,25.9
+SI,Llave - zona Centro,Llave (red JAPAY),Centro,3,633,29.7,425+,25,594.4,25.9
+SI,Garrafón purificadora local,Embotellada / garrafón,,1,84,25.3,25,0,20.4,3.7
+SI,Garrafón purificadora local,Embotellada / garrafón,,2,81,24.4,25,0,20.4,3.7
+SI,Garrafón purificadora local,Embotellada / garrafón,,3,82,26.2,25,0,20.4,3.7
+SI,Garrafón marca comercial A,Embotellada / garrafón,,1,52,26.1,50,0,38.9,4.6
+SI,Garrafón marca comercial A,Embotellada / garrafón,,2,55,25.9,50,0,38.9,4.6
+SI,Garrafón marca comercial A,Embotellada / garrafón,,3,56,26.4,50,0,38.9,4.6
+SI,Garrafón marca comercial B,Embotellada / garrafón,,1,117,26.9,25,10,29.2,6.5
+SI,Garrafón marca comercial B,Embotellada / garrafón,,2,111,26.1,25,10,29.2,6.5
+SI,Garrafón marca comercial B,Embotellada / garrafón,,3,117,25.6,25,10,29.2,6.5

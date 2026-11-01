@@ -1,0 +1,178 @@
+{
+  "seed": 2026,
+  "warning": "SIMULATED DATA - not real survey responses or measurements",
+  "real_calibration": {
+    "census": {
+      "Ciudad de México": {
+        "dentro": 0.905,
+        "patio": 0.083,
+        "no": 0.011,
+        "red": 0.942,
+        "fosa": 0.051,
+        "sin": 0.006,
+        "tinaco": 0.846,
+        "cisterna": 0.605,
+        "ocup": 3.32
+      },
+      "México": {
+        "dentro": 0.751,
+        "patio": 0.222,
+        "no": 0.026,
+        "red": 0.865,
+        "fosa": 0.089,
+        "sin": 0.044,
+        "tinaco": 0.779,
+        "cisterna": 0.387,
+        "ocup": 3.71
+      },
+      "Nuevo León": {
+        "dentro": 0.971,
+        "patio": 0.019,
+        "no": 0.007,
+        "red": 0.949,
+        "fosa": 0.037,
+        "sin": 0.009,
+        "tinaco": 0.143,
+        "cisterna": 0.026,
+        "ocup": 3.49
+      },
+      "Jalisco": {
+        "dentro": 0.946,
+        "patio": 0.041,
+        "no": 0.007,
+        "red": 0.934,
+        "fosa": 0.046,
+        "sin": 0.013,
+        "tinaco": 0.772,
+        "cisterna": 0.388,
+        "ocup": 3.56
+      },
+      "Chihuahua": {
+        "dentro": 0.936,
+        "patio": 0.047,
+        "no": 0.015,
+        "red": 0.887,
+        "fosa": 0.076,
+        "sin": 0.034,
+        "tinaco": 0.356,
+        "cisterna": 0.037,
+        "ocup": 3.25
+      },
+      "Quintana Roo": {
+        "dentro": 0.855,
+        "patio": 0.117,
+        "no": 0.016,
+        "red": 0.738,
+        "fosa": 0.229,
+        "sin": 0.021,
+        "tinaco": 0.906,
+        "cisterna": 0.25,
+        "ocup": 3.22
+      },
+      "Campeche": {
+        "dentro": 0.647,
+        "patio": 0.309,
+        "no": 0.04,
+        "red": 0.094,
+        "fosa": 0.848,
+        "sin": 0.053,
+        "tinaco": 0.724,
+        "cisterna": 0.203,
+        "ocup": 3.55
+      },
+      "Puebla": {
+        "dentro": 0.6,
+        "patio": 0.354,
+        "no": 0.044,
+        "red": 0.813,
+        "fosa": 0.12,
+        "sin": 0.066,
+        "tinaco": 0.728,
+        "cisterna": 0.424,
+        "ocup": 3.83
+      },
+      "Guanajuato": {
+        "dentro": 0.815,
+        "patio": 0.155,
+        "no": 0.027,
+        "red": 0.827,
+        "fosa": 0.128,
+        "sin": 0.042,
+        "tinaco": 0.807,
+        "cisterna": 0.286,
+        "ocup": 3.87
+      },
+      "Sonora": {
+        "dentro": 0.892,
+        "patio": 0.092,
+        "no": 0.014,
+        "red": 0.859,
+        "fosa": 0.091,
+        "sin": 0.048,
+        "tinaco": 0.44,
+        "cisterna": 0.061,
+        "ocup": 3.34
+      },
+      "Yucatán (Mérida)": {
+        "dentro": 0.781,
+        "patio": 0.205,
+        "no": 0.012,
+        "red": 0.13,
+        "fosa": 0.788,
+        "sin": 0.08,
+        "tinaco": 0.869,
+        "cisterna": 0.223,
+        "ocup": 3.27
+      }
+    },
+    "tariff_commercial_mxn_m3": {
+      "Ciudad de México": 57.14,
+      "México": 49.01,
+      "Nuevo León": 45.04,
+      "Jalisco": 36.87,
+      "Chihuahua": 27.21,
+      "Quintana Roo": 54.57,
+      "Campeche": 20.0,
+      "Puebla": 35.1,
+      "Guanajuato": 46.11,
+      "Sonora": 64.11,
+      "Yucatán (Mérida)": 7.97
+    },
+    "water_stress_pct": {
+      "Ciudad de México": 128.71,
+      "México": 128.71,
+      "Nuevo León": 73.86,
+      "Jalisco": 45.47,
+      "Chihuahua": 73.86,
+      "Quintana Roo": 28.75,
+      "Campeche": 28.75,
+      "Puebla": 46.93,
+      "Guanajuato": 45.47,
+      "Sonora": 82.66,
+      "Yucatán (Mérida)": 28.75
+    },
+    "renameca_merida": {
+      "cond_median": 1283,
+      "hard_median": 470.1,
+      "hard_sd": 60,
+      "nno3_median": 4.2,
+      "nno3_p90": 8.55
+    }
+  },
+  "assumptions": {
+    "sample": "160 Mérida households + 100 relatives in 10 other states (Google Forms style).",
+    "merida_zones": "Weights norte .30, sur .20, oriente .17, poniente .18, centro .15. NO systematic difference between zones is simulated: any zone gap in this data is random noise.",
+    "drinking_source": "Peninsula (Mérida, Campeche, Q. Roo): garrafón .78, filtro .10, hervida .04, llave .05, otro .03. Other states: garrafón .62, filtro .16, hervida .08, llave .12, otro .02.",
+    "garrafones_per_week": "Only for garrafón users: Poisson with mean 0.55 x people in the home (min 1).",
+    "garrafon_price": "Peninsula 32 MXN per 20 L refill, other states 38 MXN (assumed refill-station prices).",
+    "consumption": "Water use per home = 4.2 m3 per person per month x lognormal noise (sd 0.35).",
+    "bill": "Monthly bill = consumption x (0.55 x commercial tariff of the state capital) + 35 MXN fixed charge, x lognormal noise (sd 0.25). Domestic tariff assumed 55% of the commercial one.",
+    "outages": "Probabilities (nunca, 1-2 veces, cada mes, cada semana) depend on the regional water stress: <35% -> (.45,.38,.12,.05); 35-80% -> (.28,.40,.21,.11); >80% -> (.15,.33,.30,.22).",
+    "outage_duration": "(horas, 1 día, varios días) = (.62,.26,.12).",
+    "septic_detail": "Homes with septic drainage split into fosa séptica .68, pozo/sumidero .17, biodigestor .10, no sé .05. Peninsula homes 'no sé' adds .04 to sewer answers (people unsure).",
+    "septic_emptying": "(nunca, cada 1-2 años, más de 2 años, no sé) = (.30,.18,.27,.25).",
+    "trust_tap": "Trust in tap water 1-5: peninsula mean 1.9, other states 2.4 (normal sd 1, rounded, clipped).",
+    "scale_marks": "Probability of noticing scale (sarro): peninsula .86, Nuevo León/Chihuahua/Sonora .62, others .48.",
+    "water_tests": "5 Mérida zones x 3 tap replicates + 3 bottled samples x 3 replicates. Meter TDS = 0.5 x conductivity (typical meter factor). Zone means drawn at random around the RENAMECA median (sd 90 ppm). Strip readings are rounded to the nearest strip pad. Bottled water: TDS 15-150 ppm, hardness 0-50, nitrate 0-10 (assumed reverse-osmosis water)."
+  }
+}
